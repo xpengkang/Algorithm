@@ -9,7 +9,7 @@ class Solution {
         // Calculate lefts and store in res.
         int left = 1;
         for (int i = 0; i < n; i++) {
-            if(i>0)
+            if (i > 0)
                 left = left * nums[i - 1];
             res[i] = left;//右移一位i
         }
