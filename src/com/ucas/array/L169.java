@@ -1,4 +1,4 @@
-package com.ucas;
+package com.ucas.array;
 
 public class L169 {
 
