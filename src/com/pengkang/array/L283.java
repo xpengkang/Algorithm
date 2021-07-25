@@ -1,7 +1,7 @@
 public class L283{
     
 }
-class Solution {
+class Solution283 {
     public void moveZeroes(int[] nums) {
         int k=0;
         for(int i = 0; i< nums.length;i++){

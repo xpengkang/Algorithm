@@ -2,7 +2,7 @@ package com.pengkang.array;
 
 public class L169 {
 
-    public static void main(String[] args){
+    public static <String> void main(String[] args){
         L169 l = new L169();
 
        // System.out.printlnew int[]{1,3,2,3,2,3}));
