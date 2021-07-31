@@ -1,4 +1,4 @@
-package com.pengkang.dac;
+package pengkang.dac;
 
 public class HanoiTower {
     public static void main(String[] args) {

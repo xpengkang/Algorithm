@@ -1,0 +1,31 @@
+递归+最优子结构，=》 dp
+
+递归：
+int break(int n) {
+	if(n == 1)return 1;
+	int res = -1;
+	for(int i = 1; i< n; i++){
+		i*break(n-i);
+		res = max3(res,i*break(n-i) , i*(n-i));//i , n-i
+	}
+}
+
+
+int max3(int a, int b, intc ){
+	return Math.max(a, Math.max(b,c));
+}
+
+
+class Solution343 {
+    
+    public int integerBreak(int n) {
+       int[] dp = new int[n + 1];
+       dp[1] = 1;
+       for(int i = 2; i <= n; i ++) {
+           for(int j = 1; j < i; j ++) {
+               dp[i] = Math.max(dp[i], (Math.max(j,dp[j])) * (Math.max(i - j, dp[i - j])));
+           }
+       }
+       return dp[n];
+    }
+}

@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74aab4f0-dc69-45df-a5b1-e1f975921f5d" name="Default Changelist" comment="ignore">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/L21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/L23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pengkang/LRU/lru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/LRU/lru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pengkang/binarysearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/binarysearch/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pengkang/dac/HanoiTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/dac/HanoiTower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +65,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +76,7 @@
       <recent name="com.ucas.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="RunManager" selected="Application.HanoiTower">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pengkang.binarysearch.BinarySearch" />
       <module name="Algorithm" />
@@ -80,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pengkang.test.Main" />
-      <module name="Algorithm" />
+    <configuration name="HanoiTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pengkang.dac.HanoiTower" />
+      <module name="com" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pengkang.test.*" />
+          <option name="PATTERN" value="pengkang.dac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,31 +143,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.MaxHeap" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.HanoiTower" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HanoiTower" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.MaxHeap" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +177,9 @@
       <workItem from="1627397022964" duration="78000" />
       <workItem from="1627397117605" duration="83000" />
       <workItem from="1627481658761" duration="1029000" />
-      <workItem from="1627486010288" duration="2033000" />
+      <workItem from="1627486010288" duration="5352000" />
+      <workItem from="1627694500179" duration="3569000" />
+      <workItem from="1627737606144" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1626521658077</created>
