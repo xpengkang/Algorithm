@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74aab4f0-dc69-45df-a5b1-e1f975921f5d" name="Default Changelist" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/com.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/L21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/L23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pengkang/LRU/lru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/LRU/lru.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pengkang/binarysearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/binarysearch/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pengkang/dac/HanoiTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/dac/HanoiTower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +169,8 @@
       <workItem from="1627486010288" duration="5352000" />
       <workItem from="1627694500179" duration="3569000" />
       <workItem from="1627737606144" duration="90000" />
+      <workItem from="1627738366221" duration="55000" />
+      <workItem from="1627804185112" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1626521658077</created>
