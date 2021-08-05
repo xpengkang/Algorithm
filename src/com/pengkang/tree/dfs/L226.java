@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.pengkang.tree.dfs;
 
 public class L226 {
@@ -66,5 +65,4 @@ class Solution {
 
     }
 
->>>>>>> 076adb1c2b90becfd25d5b18192887e301578bb9
 }
