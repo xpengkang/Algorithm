@@ -2,43 +2,55 @@ package com.pengkang.sort;
 
 import java.util.Arrays;
 
-public class Solution0805 {
+public class QuickSort {
+
 
     public static void main(String[] args) {
-        Solution0805 s = new Solution0805();
-        int[] res = s.quickSort(new int[]{12,32,1,2,3,54,34,23,43,12,33,99,0,7});
+        int[] num = {1,43,23,12,1,56,43,0,78};
+        QuickSort s = new QuickSort();
+        int[] res = s.quickSort(num);
         System.out.println(Arrays.toString(res));
+
+    }
+    //手撕快排
+
+
+
+    public int[] quickSort(int[] nums){
+
+        quickSort(nums,0, nums.length -1);
+        return nums;
+
     }
 
-    public int[] quickSort(int[] a){
-        partition(a, 0, a.length -1);
-        return a;
-    }
-
-    private void partition(int[] nums, int start, int end){
+    public void quickSort(int[] nums, int start, int end){
         if(start >= end){
             return;
         }
-        int i = start, j = end;
-        int pivot = nums[start];
+        int left = start;
+        int right = end;
 
-        while(i<j){
-            //关键：i< j,先j--,不是if,是while
-            while(i < j && nums[j] >= pivot){
-                j--;
-            }
-            while(i < j && nums[i] <= pivot){
-                i++;
-            }
+        int flag = nums[start];
+        while(left < right){
+            while(left < right && nums[right] >= nums[start]){
+                right--;//                    >=
 
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
+            }
+            while(left < right && nums[left] <= nums[start]){
+                left++;
+            }
+            int temp = nums[right];
+            nums[right] = nums[left];
+            nums[left] = temp;
+
         }
-        nums[start] = nums[j];//nums[start] = nums[i]; i=j
-        nums[j] = pivot;
 
-        partition(nums, i+1, end);//递归顺序无关
-        partition(nums, 0,i-1);
+        nums[start] = nums[right];
+        nums[right] = flag;
+
+        quickSort(nums, start, left-1);
+        quickSort(nums,left+1,end);
+
     }
+
 }

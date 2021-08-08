@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74aab4f0-dc69-45df-a5b1-e1f975921f5d" name="Default Changelist" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/sort/Solution0805.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/sort/topK/L215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/sort/topK/solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/pengkang/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pengkang/sort/sort_note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/sort/sort_note.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pengkang/tree/dfs/L226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/tree/dfs/L226.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,13 +135,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -187,7 +188,8 @@
       <workItem from="1627738366221" duration="55000" />
       <workItem from="1627804185112" duration="14000" />
       <workItem from="1627997957077" duration="699000" />
-      <workItem from="1628174227318" duration="3128000" />
+      <workItem from="1628174227318" duration="4819000" />
+      <workItem from="1628404576361" duration="3375000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1626521658077</created>
