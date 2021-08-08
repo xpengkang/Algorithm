@@ -1,7 +1,11 @@
-package com.pengkang.sort;
+package pengkang.sort;
 
 import java.util.Arrays;
 
+
+/**
+ * O(n2), space,O(1)
+ */
 public class Insertion {
     //核心插入
     public static void sort(Comparable[] a){

@@ -1,3 +1,8 @@
+package pengkang.linkedlist;
+
+import java.util.HashMap;
+import java.util.Map;
+
 class LRUCache {
   
   Node head = new Node(0, 0), tail = new Node(0, 0);

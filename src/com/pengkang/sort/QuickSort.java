@@ -2,6 +2,11 @@ package com.pengkang.sort;
 
 import java.util.Arrays;
 
+
+
+/**
+ * O(nlogn), space,O(logn)
+ */
 public class QuickSort {
 
 
