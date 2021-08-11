@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74aab4f0-dc69-45df-a5b1-e1f975921f5d" name="Default Changelist" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/MinSpanTree/note" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/sliding_window/L76.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/dp/L72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/unionFind/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/backtracking/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/T50.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/sql29.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/sql35.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/sql48.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/sql50.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/多表.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/最近的登录日期.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/牛客1-10题.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/牛客11-20题.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/牛客21-30题.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/窗口函数.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/nowcoderSQL/行列如何互换.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pengkang/heap/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/heap/MaxHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pengkang/linkedlist/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pengkang/sort/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/sort/Insertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pengkang/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pengkang/backtracking/回溯问题合集.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/backtracking/回溯问题合集.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +58,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/pengkang/stack" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/job/The-road-to-40k" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -87,6 +75,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.MaxHeap">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pengkang.binarysearch.BinarySearch" />
       <module name="Algorithm" />
@@ -153,19 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.QuickSort" />
@@ -208,6 +196,7 @@
       <workItem from="1627997957077" duration="699000" />
       <workItem from="1628174227318" duration="4819000" />
       <workItem from="1628404576361" duration="9032000" />
+      <workItem from="1628669427408" duration="1069000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1626521658077</created>
