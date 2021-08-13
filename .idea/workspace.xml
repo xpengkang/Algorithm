@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74aab4f0-dc69-45df-a5b1-e1f975921f5d" name="Default Changelist" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/sliding_window/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/str/str.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/L206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/dummyHead/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/dummyHead/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/L88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/str/L7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/str/L8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/str/L9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -198,7 +197,7 @@
       <workItem from="1627997957077" duration="699000" />
       <workItem from="1628174227318" duration="4819000" />
       <workItem from="1628404576361" duration="9032000" />
-      <workItem from="1628669427408" duration="3697000" />
+      <workItem from="1628669427408" duration="7065000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1626521658077</created>
