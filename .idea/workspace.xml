@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74aab4f0-dc69-45df-a5b1-e1f975921f5d" name="Default Changelist" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/L88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/str/L7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/str/L8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/str/L9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/stack/L20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/stack/Test32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/pengkang/stack" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/pengkang/stack" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -74,21 +73,11 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.ucas.linkedlist" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Xpengkang\Documents\job\Algorithm\src\com\pengkang\stack" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.MaxHeap">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pengkang.binarysearch.BinarySearch" />
       <module name="Algorithm" />
@@ -155,6 +144,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.QuickSort" />
@@ -198,6 +198,7 @@
       <workItem from="1628174227318" duration="4819000" />
       <workItem from="1628404576361" duration="9032000" />
       <workItem from="1628669427408" duration="7065000" />
+      <workItem from="1628917331845" duration="872000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1626521658077</created>
