@@ -1,0 +1,54 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+
+ 参考这个，有相似题目笔记
+ https://mp.toutiao.com/profile_v4/graphic/publish
+
+class Solution {
+    public List<List<Integer>> pathSum(TreeNode root, int target) {
+        //一看就是回溯，需要cuttree
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> path = new ArrayList<>();
+        backtrack(root, target, res, path);
+        return res;
+
+    }
+
+    private void backtrack(TreeNode node, int target, List<List<Integer>> res, List<Integer> path){
+
+
+        if(node == null){
+            return;
+        }
+
+        path.add(node.val);
+        target -= node.val;
+
+        if(target == 0 && node.left == null && node.right == null){
+            res.add(new ArrayList<>(path));//注意这个细节
+        }else{
+            backtrack(node.left, target, res, path);//需要回溯左右子树
+            backtrack(node.right, target, res, path);
+        }
+
+        path.remove(path.size() -1);
+
+
+
+    }
+
+
+}
