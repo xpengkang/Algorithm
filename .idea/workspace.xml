@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74aab4f0-dc69-45df-a5b1-e1f975921f5d" name="Default Changelist" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/剑指offer链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/剑指 Offer 03. 数组中重复的数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/剑指 Offer 42. 连续子数组的最大和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/backtracking/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/linkedlist/剑指offer链表-合集.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/stack/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/stack/剑指 Offer 09. 用两个栈实现队列.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pengkang/backtracking/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/backtracking/回溯总结笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pengkang/linkedlist/剑指offer链表.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +212,7 @@
       <workItem from="1628404576361" duration="9032000" />
       <workItem from="1628669427408" duration="7065000" />
       <workItem from="1628917331845" duration="1465000" />
-      <workItem from="1629027642995" duration="3525000" />
+      <workItem from="1629027642995" duration="4814000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1626521658077</created>
