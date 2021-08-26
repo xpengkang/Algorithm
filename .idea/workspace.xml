@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74aab4f0-dc69-45df-a5b1-e1f975921f5d" name="Default Changelist" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/57.1 和为 S 的两个数字.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/sliding_window/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/sliding_window/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/sliding_window/剑指 Offer 48. 最长不含重复字符的子字符串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/sliding_window/剑指 Offer 57 - II. 和为s的连续正数序列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/str/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/str/剑指 Offer 05. 替换空格.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/剑指 Offer 04. 二维数组中的查找.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/剑指 Offer 61. 扑克牌中的顺子.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/剑指 Offer 63. 股票的最大利润.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/array/约瑟夫环.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/dp/dp入门题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/dp/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/dp/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/dp/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/dp/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/dp/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/stack/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/stack/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/stack/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/stack/优先队列.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pengkang/stack/剑指 Offer 09. 用两个栈实现队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/stack/剑指 Offer 09. 用两个栈实现队列.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,17 +141,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.QuickSort" />
@@ -227,7 +189,9 @@
       <workItem from="1629133208653" duration="464000" />
       <workItem from="1629217153449" duration="1294000" />
       <workItem from="1629298911503" duration="596000" />
-      <workItem from="1629383564777" duration="970000" />
+      <workItem from="1629383564777" duration="1066000" />
+      <workItem from="1629795051412" duration="1834000" />
+      <workItem from="1629905100913" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1626521658077</created>
