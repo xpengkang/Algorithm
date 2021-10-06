@@ -15,7 +15,7 @@ public class L33 {
  * 若nums[mid] <= target <= nums[right]，说明 target 位于右侧区间。令left = mid+1，在右侧区间查找
  * 否则，令right = mid-1，在左侧区间查找
  */
-class Solution {
+class Solution33 {
     public int search(int[] nums, int target) {
         if(nums == null)return -1;
         int left = 0, right = nums.length -1;

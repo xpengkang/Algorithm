@@ -12,7 +12,7 @@ public class L23 {
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Solution23 {
     public ListNode mergeKLists(ListNode[] lists){
         return partition(lists,0,lists.length-1);
     }

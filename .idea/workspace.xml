@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74aab4f0-dc69-45df-a5b1-e1f975921f5d" name="Default Changelist" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/算法笔记Java版/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/算法笔记Java版/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pengkang/算法笔记Java版/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pengkang/graph/Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/L31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/L343" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/L64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/com.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/image rotation/L48" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/image rotation/note.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/array/L31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/array/image rotation/L48" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/array/image rotation/note.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/backtracking/L39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/backtracking/L46" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/backtracking/L78" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/backtracking/~$回溯问题合集.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/backtracking/~WRL1717.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pengkang/算法笔记Java版/数组.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/backtracking/回溯问题合集.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/binarysearch/sortedArray/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/dp/L343" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/dp/L64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/linkedlist/L19" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/linkedlist/L206" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/linkedlist/dummyHead/L61" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/linkedlist/笔记.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/map/L49" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/sort/sort" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com/pengkang/tree/readme" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +75,13 @@
       <recent name="C:\Users\Xpengkang\Documents\job\Algorithm\src\com\pengkang\stack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxHeap">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pengkang.binarysearch.BinarySearch" />
-      <module name="Algorithm" />
+  <component name="RunManager" selected="Application.Graph">
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pengkang.graph.Graph" />
+      <module name="com" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pengkang.binarysearch.*" />
+          <option name="PATTERN" value="pengkang.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,19 +154,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.HanoiTower" />
       <item itemvalue="Application.Solution0805" />
       <item itemvalue="Application.MaxHeap" />
+      <item itemvalue="Application.Graph" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Graph" />
         <item itemvalue="Application.MaxHeap" />
         <item itemvalue="Application.Solution0805" />
         <item itemvalue="Application.HanoiTower" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +209,11 @@
       <workItem from="1630134478689" duration="623000" />
       <workItem from="1630136297897" duration="595000" />
       <workItem from="1630145328419" duration="144000" />
-      <workItem from="1630591673404" duration="298000" />
+      <workItem from="1630591673404" duration="619000" />
+      <workItem from="1630667257365" duration="16000" />
+      <workItem from="1630857260621" duration="761000" />
+      <workItem from="1630939688661" duration="99000" />
+      <workItem from="1633504319917" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1626521658077</created>

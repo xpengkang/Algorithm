@@ -19,7 +19,7 @@ class Solution1 {
     }
 }
 
-class Solution {
+class Solution81 {
     public boolean search(int[] nums, int target) {
         if(nums == null)return false;
         int left = 0, right = nums.length -1;

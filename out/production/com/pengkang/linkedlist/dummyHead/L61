@@ -1,0 +1,45 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode rotateRight(ListNode head, int k) {
+        if(head == null || head.next == null)return head;
+              
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        
+         //找到倒数第二个位置
+        ListNode fast = dummy;
+        ListNode slow = dummy;
+        
+        //计算链表长度
+        int len = 0;
+        while(fast.next !=null){
+            fast = fast.next;
+            len++;
+        }
+        //倒数第n个开始旋转,
+        int n = len-k%len;
+       
+        while(n>0){
+           slow = slow.next;
+            n--;
+        }
+        
+        //反转
+        fast.next = dummy.next;
+        dummy.next = slow.next;
+        slow.next = null;
+        
+        return dummy.next;
+           
+    }
+    
+}

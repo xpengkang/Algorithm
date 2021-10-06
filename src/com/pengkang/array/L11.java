@@ -3,7 +3,7 @@ public class L11{
 }
 
 
-class Solution {
+class Solution11 {
     public int maxArea(int[] height) {
         // int left = 0, right = height.length-1;
         // int max = 0;
